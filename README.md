@@ -6,7 +6,7 @@
 `$ git clone https://github.com/MitchellSymington/rocketshoes-web.git`
 
 :two: Ir para o diretório </br>
-`$ cd gobarber-web`
+`$ cd rocketshoes-web`
 
 :three: Instalar dependencias</br>
 `$ yarn install`
