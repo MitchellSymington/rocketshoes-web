@@ -1,32 +1,15 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/Rocketshoes/master/web/.github/logo_2.png">
-</h1>
+# :notebook_with_decorative_cover: Instruções
 
-  # 🚀 Sobre o desafio
+### :fire: Rodar os comandos abaixo:
 
-  Esta é a parte web do projeto Rocketshoes, um E-commerce sobre venda de calçados, feito com:
-  - ⚛️ ReactJs - Uma biblioteca javascript para criar interfaces de usuário.
-  - ⚛️ Styled Components - Biblioteca Javascript pra estilizar componentes.
-  - ⚛️ Redux - Biblioteca JavaScript de código aberto para gerenciar o estado do aplicativo.
-  - ⚛️ Redux Saga - Biblioteca torna os efeitos colaterais do aplicativo mais fácil de gerenciar.
+:one: Clonar projeto</br>
+`$ git clone https://github.com/MitchellSymington/rocketshoes-web.git`
 
-  <h1 align="center">
-    <img src="https://raw.githubusercontent.com/MicaelliMedeiros/Rocketshoes/master/web/.github/Rocketshoes.png" width="70%" height="70%">
-    <img src="https://raw.githubusercontent.com/MicaelliMedeiros/Rocketshoes/master/web/.github/Rocketshoes(1).png" width="70%" height="70%">
-    <img src="https://raw.githubusercontent.com/MicaelliMedeiros/Rocketshoes/master/web/.github/Rocketshoes(2).png" width="70%" height="70%">
-    <img src="https://raw.githubusercontent.com/MicaelliMedeiros/Rocketshoes/master/web/.github/Rocketshoes(3).png" width="70%" height="70%">
-  </h1>
+:two: Ir para o diretório </br>
+`$ cd gobarber-web`
 
-## Como fazer funcionar em sua máquina
+:three: Instalar dependencias</br>
+`$ yarn install`
 
-```sh
-yarn
-
-# start the yarn
-yarn start
-
-# start the json-server api
-yarn json-server server.json -p 3333
-
-  This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-# rocketshoes-web
+:four: Iniciar</br>
+`$ yarn start`</br>
